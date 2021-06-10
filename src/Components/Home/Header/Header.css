@@ -1,0 +1,9 @@
+.header {
+    background-image: url('../../../images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headerContainer {
+    background-color: rgba(0, 0, 0, .5);
+}
